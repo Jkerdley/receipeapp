@@ -1,4 +1,4 @@
-import styles from './app.module.css';
+import styles from './App.module.css';
 import data from './data.json';
 import { useState } from 'react';
 
